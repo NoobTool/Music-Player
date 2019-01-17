@@ -1,0 +1,2 @@
+# Music-Player
+Behold the prototype of a music player that was my first implementation of the machine learning I learnt. It tracks what the user plays and what he/she likes to listen. It creates a music library of songs from Song 1 to Song 100 either shuffled or sequenced. It recognizes the user's favorite songs and puts them on the top of the queue. It also recommends new music in accordance to the favorites.
